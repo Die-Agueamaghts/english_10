@@ -1,0 +1,356 @@
+{
+  "categories": [
+    {
+      "id": "scottish_history",
+      "name": "Scottish history",
+      "cards": [
+        {
+          "english_word": "to descend from",
+          "german_word": "abstammen von; herstammen von",
+          "english_example": "Most Americans are descended from immigrant parents.",
+          "german_example": "Die meisten Amerikaner stammen von Einwanderern ab."
+        },
+        {
+          "english_word": "relative",
+          "german_word": "Verwandte/-r",
+          "english_example": "Aunts, uncles, cousins etc. are relatives.",
+          "german_example": "Tanten, Onkel, Cousinen usw. sind Verwandte."
+        },
+        {
+          "english_word": "to pledge allegiance",
+          "german_word": "Treueschwur leisten",
+          "english_example": "Every morning, American school children pledge allegiance to their flag.",
+          "german_example": "Jeden Morgen leisten amerikanische Schulkinder einen Treueschwur auf ihre Flagge."
+        },
+        {
+          "english_word": "to pledge",
+          "german_word": "geloben",
+          "english_example": "to pledge -> a pledge",
+          "german_example": "geloben -> ein Gelübde / Versprechen"
+        },
+        {
+          "english_word": "exceptional",
+          "german_word": "Ausnahme-; außergewöhnlich",
+          "english_example": "exceptional -> exception / Fr. exceptionnel/-le",
+          "german_example": "außergewöhnlich -> Ausnahme / frz. exceptionnel/-le"
+        },
+        {
+          "english_word": "bravery",
+          "german_word": "Tapferkeit; Mut",
+          "english_example": "bravery -> brave",
+          "german_example": "Tapferkeit -> tapfer"
+        },
+        {
+          "english_word": "loyalty (no pl)",
+          "german_word": "Treue; Loyalität",
+          "english_example": "On July 4th, a lot of people show their loyalty to their country.",
+          "german_example": "Am 4. Juli zeigen viele Menschen ihre Treue gegenüber ihrem Land."
+        },
+        {
+          "english_word": "surname",
+          "german_word": "Nachname",
+          "english_example": "In Scotland many surnames start with 'Mac' which means 'son'.",
+          "german_example": "In Schottland beginnen viele Nachnamen mit 'Mac', was 'Sohn' bedeutet."
+        },
+        {
+          "english_word": "Scot",
+          "german_word": "Schotte/Schottin",
+          "english_example": "Scot -> Scotland, Scottish",
+          "german_example": "Schotte -> Schottland, schottisch"
+        },
+        {
+          "english_word": "weaver",
+          "german_word": "Weber/-in",
+          "english_example": "There aren't many weavers today because most textiles are made by machines.",
+          "german_example": "Heute gibt es nicht mehr viele Weber, weil die meisten Textilien von Maschinen hergestellt werden."
+        },
+        {
+          "english_word": "to chop",
+          "german_word": "hacken, klein schneiden",
+          "english_example": "Please chop the vegetables for the soup.",
+          "german_example": "Bitte schneide das Gemüse für die Suppe klein."
+        },
+        {
+          "english_word": "heiress",
+          "german_word": "Erbin",
+          "english_example": "When a king dies, his heir or heiress becomes king or queen.",
+          "german_example": "Wenn ein König stirbt, wird sein Erbe oder seine Erbin König oder Königin."
+        },
+        {
+          "english_word": "alliance",
+          "german_word": "Allianz; Bündnis",
+          "english_example": "Countries often form alliances to become stronger by working together.",
+          "german_example": "Länder bilden oft Bündnisse, um durch Zusammenarbeit stärker zu werden."
+        },
+        {
+          "english_word": "rebel",
+          "german_word": "Rebell/-in; Aufständische/-r",
+          "english_example": "Robin Hood was a rebel who fought against the Sheriff of Nottingham.",
+          "german_example": "Robin Hood war ein Rebell, der gegen den Sheriff von Nottingham kämpfte."
+        },
+        {
+          "english_word": "heyday",
+          "german_word": "Höhepunkt, Blütezeit",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "to date from (the 1850s)",
+          "german_word": "stammen aus",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "heir/heiress, heritage, inherit",
+          "german_word": "erben, inheritance: Erbe",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "to hand sth. down",
+          "german_word": "weitergeben",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "to assassinate",
+          "german_word": "ermorden, assassination: Attentat",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "to imprison, imprisonment",
+          "german_word": "verhaften, Inhaftierung",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "to abolish (slavery/segregation)",
+          "german_word": "abschaffen",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "to emerge",
+          "german_word": "auftauchen",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "to evolve",
+          "german_word": "sich entwickeln",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "Empire, kingdom, monarchy <-> republic",
+          "german_word": "Kaiserreich, Königreich, Monarchie <-> Republik",
+          "english_example": "The British Empire was the largest colonial empire in history.",
+          "german_example": "Das Britische Empire war das größte Kolonialreich der Geschichte."
+        },
+        {
+          "english_word": "feudal system: gentry, nobility, peasant, serf",
+          "german_word": "Feudalsystem: niederer Adel, Adel, Kleinbauer/-bäuerin, Leibeigene/-r",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "to revolt / to revolutionise",
+          "german_word": "revoltieren / revolutionieren",
+          "english_example": "to rebel against the system",
+          "german_example": "gegen das System rebellieren"
+        },
+        {
+          "english_word": "to riot",
+          "german_word": "randalieren, riot: Aufruhr, rioter: Randalierer",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "contribution",
+          "german_word": "Beitrag; Beteiligung",
+          "english_example": "What's your contribution to the party? Food, music?",
+          "german_example": "Was ist dein Beitrag zur Party? Essen, Musik?"
+        },
+        {
+          "english_word": "enlightenment",
+          "german_word": "Aufklärung; Erleuchtung",
+          "english_example": "The Statue of Liberty's torch stands for enlightenment.",
+          "german_example": "Die Fackel der Freiheitsstatue steht für Aufklärung."
+        },
+        {
+          "english_word": "influential",
+          "german_word": "einflussreich; maßgebend",
+          "english_example": "Who is the most influential person at the moment?",
+          "german_example": "Wer ist im Moment die einflussreichste Person?"
+        },
+        {
+          "english_word": "reason",
+          "german_word": "Vernunft; Verstand",
+          "english_example": "reason <-> emotion",
+          "german_example": "Vernunft <-> Emotion"
+        },
+        {
+      "id": "scottish_enlightenment_and_industrialisation",
+      "name": "Scottish enlightenment and Industrialisation",
+      "cards": [
+        {
+          "english_word": "philosopher",
+          "german_word": "Philosoph/in",
+          "english_example": "philosopher -> philosophy",
+          "german_example": "Philosoph -> Philosophie"
+        },
+        {
+          "english_word": "economist",
+          "german_word": "Betriebswirt/-in; Wirtschaftsexperte/-expertin",
+          "english_example": "An economist studies the way in which economies work or studies developments within a particular economy. economist -> economy",
+          "german_example": "Ein Wirtschaftswissenschaftler untersucht die Art und Weise, wie Volkswirtschaften funktionieren, oder studiert Entwicklungen innerhalb einer bestimmten Wirtschaft. Wirtschaftsexperte -> Wirtschaft"
+        },
+        {
+          "english_word": "to advance",
+          "german_word": "voranbringen; vorantreiben",
+          "english_example": "Scottish thinkers helped to advance science and philosophy in the 18th and 19th centuries.",
+          "german_example": "Schottische Denker halfen im 18. und 19. Jahrhundert, die Wissenschaft und Philosophie voranzubringen."
+        },
+        {
+          "english_word": "engine",
+          "german_word": "Motor; Maschine",
+          "english_example": "Almost all cars have the engine in front of the driver.",
+          "german_example": "Fast alle Autos haben den Motor vor dem Fahrer."
+        },
+        {
+          "english_word": "waterproof",
+          "german_word": "wasserdicht",
+          "english_example": "You won't get wet if you wear waterproof clothing.",
+          "german_example": "Du wirst nicht nass, wenn du wasserdichte Kleidung trägst."
+        },
+        {
+          "english_word": "refrigerator",
+          "german_word": "Kühlschrank",
+          "english_example": "The refrigerator was an important invention because it helped people to keep their food fresh.",
+          "german_example": "Der Kühlschrank war eine wichtige Erfindung, weil er den Menschen half, ihre Lebensmittel frisch zu halten."
+        },
+        {
+          "english_word": "balloon",
+          "german_word": "Ballon",
+          "english_example": "After it was filled with hot air, the balloon rose slowly into the air. Fr. ballon (m)",
+          "german_example": "Nachdem er mit Heißluft gefüllt war, stieg der Ballon langsam in die Luft. frz. ballon (m)"
+        },
+        {
+          "english_word": "to achieve, achievement",
+          "german_word": "erreichen, Leistung/Erfolg",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "to be acknowledged / praised",
+          "german_word": "anerkannt / gelobt werden",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "to be based on (reason / evidence)",
+          "german_word": "basieren auf (Vernunft / Beweis, Beleg)",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "to challenge (old ideas)",
+          "german_word": "infrage stellen (alte Ideen)",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "to develop (further)",
+          "german_word": "(weiter)entwickeln",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "to discover, discovery",
+          "german_word": "entdecken, Entdeckung",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "to explore, explorer",
+          "german_word": "erforschen, Forscher/Entdecker",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "to have an impact on",
+          "german_word": "Auswirkungen haben auf",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "to influence, influence, influential",
+          "german_word": "beeinflussen, Einfluss, einflussreich",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "to invent, inventor",
+          "german_word": "erfinden, Erfinder",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "innovation, innovative",
+          "german_word": "Innovation, innovativ",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "technology: steam engine",
+          "german_word": "Technologie: Dampfmaschine",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "machinery",
+          "german_word": "Maschinen, Maschinerie",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "factory / mill",
+          "german_word": "Fabrik",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "heavy industries: coal, iron, steel, shipbuilding",
+          "german_word": "Schwerindustrie: Kohle, Eisen, Stahl, Schiffbau",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "labour",
+          "german_word": "Arbeit",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "workforce",
+          "german_word": "Arbeitskräfte",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "working class",
+          "german_word": "Arbeiterklasse",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "working conditions",
+          "german_word": "Arbeitsbedingungen",
+          "english_example": "",
+          "german_example": ""
+        }
+      ]
+    }
+  ]
+}
