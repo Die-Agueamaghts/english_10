@@ -40,11 +40,7 @@
     }
     if (normalized.english_example === undefined) {
       normalized.english_example =
-        normalized.english_example ??
-        normalized.english_example ??
-        normalized.englishExample ??
-        normalized.example ??
-        "";
+        normalized.englishExample ?? normalized.example ?? "";
     }
     if (normalized.german_example === undefined) {
       normalized.german_example =
@@ -55,11 +51,7 @@
 
   function getenglishValue(card) {
     return String(
-      card?.english_word ??
-        card?.english_word ??
-        card?.english ??
-        card?.question ??
-        "",
+      card?.english_word ?? card?.english ?? card?.question ?? "",
     ).trim();
   }
 
@@ -71,12 +63,7 @@
 
   function getenglishExampleValue(card) {
     return String(
-      card?.english_example ??
-        card?.english_example ??
-        card?.english_example ??
-        card?.englishExample ??
-        card?.example ??
-        "",
+      card?.english_example ?? card?.englishExample ?? card?.example ?? "",
     ).trim();
   }
 
@@ -314,7 +301,7 @@
   function loadStats() {
     try {
       const saved = JSON.parse(
-        localStorage.getItem("franzosisch5_progress") || "{}",
+        localStorage.getItem("english10_progress") || "{}",
       );
       return {
         sessions: Number(saved.sessions) || 0,
@@ -329,7 +316,7 @@
 
   function saveStats() {
     localStorage.setItem(
-      "franzosisch5_progress",
+      "english10_progress",
       JSON.stringify({
         sessions: state.stats.sessions,
         correct: state.stats.correct,
@@ -359,6 +346,7 @@
     state.cards = [...category.cards].map(normalizeCard);
     state.currentIndex = 0;
     state.answers = [];
+    state.lastValidation = null;
     state.testDirection = "question";
     $("#categoryLabel").textContent =
       `${unit?.label || "Unit"} · ${category.name}`;

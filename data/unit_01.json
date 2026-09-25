@@ -1,0 +1,1738 @@
+{
+  "categories": [
+    {
+      "id": "unit_01_introduction",
+      "name": "Introduction",
+      "cards": [
+        {
+          "english_word": "oral",
+          "german_word": "mündlich",
+          "english_example": "An oral exam is a test in which you have to show how good your speaking skills are.",
+          "german_example": "Eine mündliche Prüfung ist ein Test, bei dem du zeigen musst, wie gut deine Sprechfertigkeiten sind."
+        },
+        {
+          "english_word": "difficulty",
+          "german_word": "Schwierigkeit",
+          "english_example": "What difficulties do immigrants usually face? difficulty -> difficult / Lat. difficultas (f)",
+          "german_example": "Mit welchen Schwierigkeiten sind Einwanderer normalerweise konfrontiert? / Schwierigkeit -> schwierig / lat. difficultas (f)"
+        },
+        {
+          "english_word": "inhabitant",
+          "german_word": "Einwohner/-in; Bewohner/-in",
+          "english_example": "All the people who live in a place are its inhabitants. Fr. habitant/-e (m)/(f); Lat. habitare",
+          "german_example": "Alle Menschen, die an einem Ort leben, sind seine Einwohner. / frz. habitant/-e (m)/(f); lat. habitare"
+        },
+        {
+          "english_word": "to dine",
+          "german_word": "zu Abend essen",
+          "english_example": "Let's dine in a restaurant today. to dine -> dinner",
+          "german_example": "Lass uns heute in einem Restaurant zu Abend essen. / zu Abend essen -> Abendessen"
+        },
+        {
+          "english_word": "to sip",
+          "german_word": "nippen; schluckweise trinken",
+          "english_example": "She enjoyed sipping her tea slowly.",
+          "german_example": "Sie genoss es, langsam an ihrem Tee zu nippen."
+        },
+        {
+          "english_word": "upside down",
+          "german_word": "verkehrt herum; auf dem Kopf stehend",
+          "english_example": "My little brother doesn't know how to read. Yesterday he looked at a book upside down.",
+          "german_example": "Mein kleiner Bruder kann noch nicht lesen. Gestern hat er sich ein Buch verkehrt herum angeschaut."
+        },
+        {
+          "english_word": "pipe",
+          "german_word": "Dudelsackpfeife",
+          "english_example": "How many pipes do bagpipes have?",
+          "german_example": "Wie viele Pfeifen hat ein Dudelsack?"
+        },
+        {
+          "english_word": "tartan",
+          "german_word": "Schottenkaro (bestimmtes Muster eines Clans); karierter Schottenstoff",
+          "english_example": "Different families have tartans of different colours, e.g. with a red, blue or green background.",
+          "german_example": "Verschiedene Familien haben Schottenkaros in verschiedenen Farben, z. B. mit einem roten, blauen oder grünen Hintergrund."
+        },
+        {
+          "english_word": "glance",
+          "german_word": "Blick",
+          "english_example": "They exchanged a meaningful glance. glance -> to glance",
+          "german_example": "Sie tauschten einen bedeutungsvollen Blick aus. / Blick -> blicken"
+        },
+        {
+          "english_word": "proof",
+          "german_word": "Beweis",
+          "english_example": "She thinks Tom stole her mobile, but she has no proof. proof -> to prove",
+          "german_example": "Sie glaubt, dass Tom ihr Handy gestohlen hat, aber sie hat keinen Beweis. / Beweis -> beweisen"
+        },
+        {
+          "english_word": "haggis",
+          "german_word": "gefüllter Schafsmagen",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "tatties (= potatoes)",
+          "german_word": "Kartoffeln",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "neeps (= turnips)",
+          "german_word": "Steckrüben",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "Irn Bru",
+          "german_word": "Softdrink mit Koffein",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "whisky",
+          "german_word": "Whisky",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "Celtic myths",
+          "german_word": "keltische Mythen",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "bagpipes",
+          "german_word": "Dudelsack",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "Highland dancing",
+          "german_word": "schottischer Volkstanz",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "Royal Edinburgh Military Tattoo",
+          "german_word": "Musikfestival",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "clans",
+          "german_word": "Clans / Sippen",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "kilt",
+          "german_word": "Schottenrock",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "tossing the caber",
+          "german_word": "Baumstammwerfen",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "tug of war",
+          "german_word": "Tauziehen",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "stone put",
+          "german_word": "Steinstoßen",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "hammer throw",
+          "german_word": "Hammerwerfen",
+          "english_example": "",
+          "german_example": ""
+        }
+      ]
+    },
+    {
+      "id": "unit_01_texts_a",
+      "name": "Texts A",
+      "cards": [
+        {
+          "english_word": "department",
+          "german_word": "Abteilung",
+          "english_example": "The games department is the part of a shop that sells games.",
+          "german_example": "Die Spieleabteilung ist der Teil eines Geschäfts, der Spiele verkauft."
+        },
+        {
+          "english_word": "to disintegrate",
+          "german_word": "zerfallen; zerbrechen",
+          "english_example": "to disintegrate = to fall into pieces / to disintegrate <-> to integrate",
+          "german_example": "to disintegrate = in Stücke zerfallen / to disintegrate <-> integrieren"
+        },
+        {
+          "english_word": "pile",
+          "german_word": "Stapel; Haufen",
+          "english_example": "There is always a pile of books on my desk. pile -> to pile up",
+          "german_example": "Auf meinem Schreibtisch liegt immer ein Stapel Bücher. / Stapel -> aufstapeln"
+        },
+        {
+          "english_word": "cottage",
+          "german_word": "Landhaus; Hütte",
+          "english_example": "I spend my summers in a little cottage by the sea.",
+          "german_example": "Ich verbringe meine Sommer in einem kleinen Landhaus am Meer."
+        },
+        {
+          "english_word": "loch",
+          "german_word": "See (in Schottland)",
+          "english_example": "Careful with the pronunciation: The Scottish 'ch' in loch is pronounced like the German 'ch'.",
+          "german_example": "Vorsicht bei der Aussprache: Das schottische „ch“ in loch wird wie das deutsche „ch“ ausgesprochen."
+        },
+        {
+          "english_word": "to tower",
+          "german_word": "hoch aufragen",
+          "english_example": "The castle has towered over the town for hundreds of years.",
+          "german_example": "Die Burg ragt seit Jahrhunderten über der Stadt empor."
+        },
+        {
+          "english_word": "curtain",
+          "german_word": "Vorhang",
+          "english_example": "curtain = a piece of material you can pull across a window, for example when it gets dark outside",
+          "german_example": "Vorhang = ein Stück Stoff, das man vor ein Fenster ziehen kann, zum Beispiel wenn es draußen dunkel wird"
+        },
+        {
+          "english_word": "isolated",
+          "german_word": "abgelegen; abgeschieden; isoliert",
+          "english_example": "Many holiday cottages are in isolated areas. isolated -> isolation / Fr. isolé/-e",
+          "german_example": "Viele Ferienhäuser liegen in abgelegenen Gebieten. / isoliert -> Isolation / frz. isolé/-e"
+        },
+        {
+          "english_word": "casual",
+          "german_word": "zufällig; gelegentlich",
+          "english_example": "I had a casual meeting with my teacher in town.",
+          "german_example": "Ich hatte ein zufälliges Treffen mit meinem Lehrer in der Stadt."
+        },
+        {
+          "english_word": "pub",
+          "german_word": "Kneipe; Gasthaus",
+          "english_example": "pub = a place where people can go and have drinks (especially beer, wine, whisky etc.) and talk to their friends",
+          "german_example": "Kneipe = ein Ort, an den Menschen gehen können, um etwas zu trinken (besonders Bier, Wein, Whisky usw.) und mit ihren Freunden zu reden"
+        },
+        {
+          "english_word": "due to",
+          "german_word": "aufgrund; durch",
+          "english_example": "The train is delayed due to technical problems. due to = because of",
+          "german_example": "Der Zug ist aufgrund technischer Probleme verspätet. / aufgrund = wegen"
+        },
+        {
+          "english_word": "inexplicable",
+          "german_word": "unerklärlich",
+          "english_example": "For some inexplicable reason he sold his fantastic house. inexplicable -> to explain",
+          "german_example": "Aus irgendeinem unerklärlichen Grund hat er sein fantastisches Haus verkauft. / unerklärlich -> erklären"
+        },
+        {
+          "english_word": "to stock up",
+          "german_word": "sich eindecken",
+          "english_example": "We always stock up on wood before the winter comes.",
+          "german_example": "Wir decken uns immer mit Holz ein, bevor der Winter kommt."
+        },
+        {
+          "english_word": "exposed",
+          "german_word": "ungeschützt; exponiert",
+          "english_example": "Our house is in a very exposed position on a hill. Fr. exposer, Lat. exponere",
+          "german_example": "Unser Haus befindet sich in einer sehr ungeschützten Lage auf einem Hügel."
+        },
+        {
+          "english_word": "gale",
+          "german_word": "Sturm; Orkan",
+          "english_example": "The ship had to fight a heavy gale.",
+          "german_example": "Das Schiff hatte gegen einen schweren Sturm zu kämpfen."
+        },
+        {
+          "english_word": "to reassure",
+          "german_word": "beruhigen; beschwichtigen",
+          "english_example": "After their accident, my parents reassured me that they were OK. to reassure -> sure",
+          "german_example": "Nach ihrem Unfall beruhigten mich meine Eltern, dass es ihnen gut gehe."
+        },
+        {
+          "english_word": "slot",
+          "german_word": "Schlitz",
+          "english_example": "Put your card or your money into the slot.",
+          "german_example": "Stecken Sie Ihre Karte oder Ihr Geld in den Schlitz."
+        },
+        {
+          "english_word": "burglar",
+          "german_word": "Einbrecher/-in",
+          "english_example": "Most burglars break into houses when nobody is there.",
+          "german_example": "Die meisten Einbrecher brechen in Häuser ein, wenn niemand da ist."
+        },
+        {
+          "english_word": "midge",
+          "german_word": "Mücke",
+          "english_example": "The best thing in winter is that there are no midges.",
+          "german_example": "Das Beste im Winter ist, dass es keine Mücken gibt."
+        },
+        {
+          "english_word": "to cope with",
+          "german_word": "bewältigen; fertig werden mit",
+          "english_example": "She was unsure how to cope with her boyfriend leaving her.",
+          "german_example": "Sie war sich unsicher, wie sie damit fertig werden sollte, dass ihr Freund sie verlässt."
+        },
+        {
+          "english_word": "downside",
+          "german_word": "Kehrseite; Schattenseite",
+          "english_example": "The downside of industrialisation is the destruction of nature.",
+          "german_example": "Die Kehrseite der Industrialisierung ist die Zrustörung der Natur."
+        },
+        {
+          "english_word": "column",
+          "german_word": "Spalte",
+          "english_example": "Collect the pros and cons in a table with two columns. Lat. columna (f)",
+          "german_example": "Sammeln Sie die Vor- und Nachteile in einer Tabelle mit zwei Spalten."
+        },
+        {
+          "english_word": "myth",
+          "german_word": "Mythos; Legende",
+          "english_example": "myth = a story or version of the truth that is often still believed, even though it is not founded on facts",
+          "german_example": "Mythos = eine Geschichte oder Version der Wahrheit, die oft immer noch geglaubt wird, obwohl sie nicht auf Fakten beruht"
+        },
+        {
+          "english_word": "enchanted",
+          "german_word": "verzaubert",
+          "english_example": "He felt like he was walking through an enchanted forest; it was so beautiful.",
+          "german_example": "Er hatte das Gefühl, durch einen verzauberten Wald zu gehen; er war so schön."
+        },
+        {
+          "english_word": "to inspire",
+          "german_word": "inspirieren; anregen",
+          "english_example": "to inspire = to give the idea for sth (e.g. a poem or a song)",
+          "german_example": "inspirieren = die Idee für etwas geben (z. B. ein Gedicht oder ein Lied)"
+        },
+        {
+          "english_word": "mythical creature",
+          "german_word": "Fabelwesen",
+          "english_example": "Dragens are mythical creatures. mythical -> myth",
+          "german_example": "Drachen sind Fabelwesen."
+        },
+        {
+          "english_word": "fairy",
+          "german_word": "Fee",
+          "english_example": "In Scotland, there are many tales about people being kidnapped by fairies. fairy -> fairy tale",
+          "german_example": "In Schottland gibt es viele Erzählungen über Menschen, die von Feen entführt wurden."
+        },
+        {
+          "english_word": "stream",
+          "german_word": "Bach",
+          "english_example": "They crossed the fast-moving stream on a wooden bridge.",
+          "german_example": "Sie überquerten den reißenden Bach auf einer Holzbrücke."
+        },
+        {
+          "english_word": "to drip",
+          "german_word": "tropfen",
+          "english_example": "Rain was dripping down his neck.",
+          "german_example": "Regen tropfte ihm den Nacken hinunter."
+        },
+        {
+          "english_word": "shore",
+          "german_word": "Ufer; Küste",
+          "english_example": "They walked along the shore and watched the waves.",
+          "german_example": "Sie gingen am Ufer entlang und beobachteten die Wellen."
+        },
+        {
+          "english_word": "despite",
+          "german_word": "trotz",
+          "english_example": "Despite feeling sick, she won the match.",
+          "german_example": "Obwohl sie sich krank fühlte, gewann sie das Spiel."
+        },
+        {
+          "english_word": "to haunt",
+          "german_word": "spuken in; heimsuchen",
+          "english_example": "A ghost is haunting the old castle. to haunt -> haunted house",
+          "german_example": "Ein Geist spukt im alten Schloss."
+        },
+        {
+          "english_word": "mischievous",
+          "german_word": "schelmisch; boshaft",
+          "english_example": "A mischievous person likes playing tricks on other people.",
+          "german_example": "Eine schelmische Person spielt anderen Leuten gerne Streiche."
+        },
+        {
+          "english_word": "hump",
+          "german_word": "Buckel; Höcker",
+          "english_example": "Some camels have only one hump.",
+          "german_example": "Einige Kamele haben nur einen Höcker."
+        },
+        {
+          "english_word": "to prove",
+          "german_word": "beweisen",
+          "english_example": "to prove = to show definitely that sth is true to prove -> proof",
+          "german_example": "beweisen = definitiv zeigen, dass etwas wahr ist"
+        },
+        {
+          "english_word": "remote",
+          "german_word": "abgelegen; weit entfernt",
+          "english_example": "It was an adventure to explore this remote mountain. remote = isolated",
+          "german_example": "Es war ein Abenteuer, diesen abgelegenen Berg zu erkunden."
+        },
+        {
+          "english_word": "bill",
+          "german_word": "Rechnung",
+          "english_example": "We'd like to pay. Could you bring us the bill, please?",
+          "german_example": "Wir würden gerne bezahlen. Könnten Sie uns bitte die Rechnung bringen?"
+        },
+        {
+          "english_word": "abandoned",
+          "german_word": "aufgegeben; verlassen",
+          "english_example": "The abandoned building had to be pulled down. Fr. abandonné/e",
+          "german_example": "Das verlassene Gebäude musste abgerissen werden."
+        },
+        {
+          "english_word": "to drag",
+          "german_word": "schleifen; ziehen; schleppen",
+          "english_example": "If you drag sth, you pull it along.",
+          "german_example": "Wenn man etwas schleift, zieht man es hinter sich her."
+        },
+        {
+          "english_word": "content",
+          "german_word": "zufrieden",
+          "english_example": "I am very content with the test results. Fr. content/e",
+          "german_example": "Ich bin mit den Testergebnissen sehr zufrieden."
+        },
+        {
+          "english_word": "to flicker",
+          "german_word": "flackern; flimmern",
+          "english_example": "I like it when things flicker, for example candles, fire, a light or the TV screen.",
+          "german_example": "Ich mag es, wenn Dinge flackern, zum Beispiel Kerzen, Feuer, ein Licht oder der Fernseher."
+        },
+        {
+          "english_word": "remains (pl)",
+          "german_word": "Überreste; Überbleibsel",
+          "english_example": "In this picture you can see the remains of a Roman villa. remains -> to remain",
+          "german_example": "Auf diesem Bild kann man die Überreste einer römischen Villa sehen."
+        },
+        {
+          "english_word": "stick",
+          "german_word": "Stock; Stange",
+          "english_example": "Dogs love it when you throw sticks for them.",
+          "german_example": "Hunde lieben es, wenn man Stöcke für sie wirft."
+        },
+        {
+          "english_word": "to toss",
+          "german_word": "werfen; stoßen",
+          "english_example": "Let's toss a coin to decide who is going to start.",
+          "german_example": "Lasst uns eine Münze werfen, um zu entscheiden, wer anfängt."
+        },
+        {
+          "english_word": "to stalk",
+          "german_word": "stolzieren; marschieren",
+          "english_example": "After the fight she stalked angrily out of the room.",
+          "german_example": "Nach dem Streit stolzierte sie wütend aus dem Zimmer."
+        },
+        {
+          "english_word": "doubt",
+          "german_word": "Zweifel",
+          "english_example": "Claire isn't sure about her decision. She has doubts. Fr. doute (f)",
+          "german_example": "Claire ist sich bei ihrer Entscheidung nicht sicher. Sie hat Zweifel."
+        },
+        {
+          "english_word": "to crouch",
+          "german_word": "hocken; sich niederkauern",
+          "english_example": "The boy crouched under the table to hide from us.",
+          "german_example": "Der Junge kauerte unter dem Tisch, um sich vor uns zu verstecken."
+        },
+        {
+          "english_word": "butterfly",
+          "german_word": "Schmetterling",
+          "english_example": "Some butterfly species can travel very long distances.",
+          "german_example": "Einige Schmetterlingsarten können sehr lange Strecken zurücklegen."
+        },
+        {
+          "english_word": "fancy",
+          "german_word": "schick; ausgefallen",
+          "english_example": "1. The restaurant is very fancy and very expensive. 2. This dress has a fancy design.",
+          "german_example": "1. Das Restaurant ist sehr schick und sehr teuer. 2. Dieses Kleid hat ein ausgefallenes Design."
+        },
+        {
+          "english_word": "provisions (pl)",
+          "german_word": "Vorräte",
+          "english_example": "After the disaster the government sent provisions to the communities. provision -> to provide / Fr. provision (f)",
+          "german_example": "Nach der Katastrophe schickte die Regierung Vorräte an die Gemeinden."
+        },
+        {
+          "english_word": "corrugated",
+          "german_word": "gewellt",
+          "english_example": "corrugated iron - Wellblech",
+          "german_example": "corrugated iron - Wellblech"
+        },
+        {
+          "english_word": "to lean",
+          "german_word": "lehnen",
+          "english_example": "I can lean back and forward, but I'm more comfortable leaning against the wall.",
+          "german_example": "Ich kann mich nach hinten und vorne lehnen, aber ich lehne mich bequemer gegen die Wand."
+        },
+        {
+          "english_word": "oak",
+          "german_word": "Eiche",
+          "english_example": "An oak is a tree that you find in the forest.",
+          "german_example": "Eine Eiche ist ein Baum, den man im Wald findet."
+        },
+        {
+          "english_word": "assortment (of)",
+          "german_word": "Sortiment (von); Auswahl (an)",
+          "english_example": "The shop has a big assortment of sofas and chairs. Fr. assortment (m)",
+          "german_example": "Das Geschäft hat ein großes Sortiment an Sofas und Stühlen."
+        },
+        {
+          "english_word": "cutlery (no pl)",
+          "german_word": "Besteck",
+          "english_example": "cutlery - forks, knives and spoons",
+          "german_example": "Besteck - Gabeln, Messer und Löffel"
+        },
+        {
+          "english_word": "penknife (sg), penknives (pl)",
+          "german_word": "Taschenmesser",
+          "english_example": "He took his penknife to slice an apple.",
+          "german_example": "Er nahm sein Taschenmesser, um einen Apfel aufzuschneiden."
+        },
+        {
+          "english_word": "blunt",
+          "german_word": "stumpf",
+          "english_example": "A blunt knife doesn't cut well. blunt <-> sharp",
+          "german_example": "Ein stumpfes Messer schneidet nicht gut."
+        },
+        {
+          "english_word": "to mock",
+          "german_word": "spotten; höhnen",
+          "english_example": "It is not nice to mock people because of their clothing.",
+          "german_example": "Es ist nicht nett, über Menschen wegen ihrer Kleidung zu spotten."
+        },
+        {
+          "english_word": "hassle",
+          "german_word": "Schikane; Schwierigkeit",
+          "english_example": "I don't think the project is worth the money or the hassle.",
+          "german_example": "Ich glaube nicht, dass das Projekt das Geld oder die Mühe wert ist."
+        },
+        {
+          "english_word": "stove",
+          "german_word": "Ofen; Herd",
+          "english_example": "I can't make dinner. The stove doesn't work.",
+          "german_example": "Ich kann kein Abendessen machen. Der Herd funktioniert nicht."
+        },
+        {
+          "english_word": "tin",
+          "german_word": "Dose; Büchse",
+          "english_example": "The recipe calls for a tin of tomatoes.",
+          "german_example": "Das Rezept verlangt nach einer Dose Tomaten."
+        },
+        {
+          "english_word": "fateful",
+          "german_word": "schicksalhaft; verhängnisvoll",
+          "english_example": "With deep sadness she remembered that fateful day in June.",
+          "german_example": "Mit tiefer Trauer erinnerte sie sich an jenen schicksalhaften Tag im Juni."
+        },
+        {
+          "english_word": "to row",
+          "german_word": "rudern",
+          "english_example": "You can row a small boat, but not a big ship.",
+          "german_example": "Man kann ein kleines Boot rudern, aber kein großes Schiff."
+        },
+        {
+          "english_word": "to associate sb/sth with sb/sth",
+          "german_word": "jmdn./etw. mit jmdm./etw. in Verbindung bringen",
+          "english_example": "People associate Italy with pizza and pasta, but it has so much more to offer than that. Fr. associer à/avec",
+          "german_example": "Menschen bringen Italien mit Pizza und Pasta in Verbindung, aber es hat so viel mehr als das zu bieten."
+        },
+        {
+          "english_word": "simile",
+          "german_word": "Vergleich",
+          "english_example": "simile = an expression comparing one thing with another, always including the words 'as' or 'like'",
+          "german_example": "Simile = ein Ausdruck, der eine Sache mit einer anderen vergleicht und immer die Wörter „as“ oder „like“ enthält."
+        },
+        {
+          "english_word": "metaphor",
+          "german_word": "Metapher",
+          "english_example": "'All the world's a stage' is an example of Shakespeare's use of metaphor.",
+          "german_example": "„Die ganze Welt ist eine Bühne“ ist ein Beispiel für Shakespeares Verwendung von Metaphern."
+        },
+        {
+          "english_word": "characterisation",
+          "german_word": "Beschreibung, Personenbeschreibung, Charakterisierung",
+          "english_example": "characterisation -> characterise, character, characteristic",
+          "german_example": "Charakterisierung -> charakterisieren, Charakter, charakteristisch"
+        },
+        {
+          "english_word": "fence",
+          "german_word": "Zaun",
+          "english_example": "There's a fence around the park.",
+          "german_example": "Es gibt einen Zaun um den Park herum."
+        },
+        {
+          "english_word": "counter",
+          "german_word": "Theke, Tresen, Schalter",
+          "english_example": "counter - the place in a shop, bank etc. where people are served",
+          "german_example": "Theke - der Platz in einem Geschäft, einer Bank usw., an dem Menschen bedient werden"
+        },
+        {
+          "english_word": "self-conscious",
+          "german_word": "befangen",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "insecure",
+          "german_word": "",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "nervous",
+          "german_word": "",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "introverted",
+          "german_word": "introvertiert",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "self-confident",
+          "german_word": "",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "brave",
+          "german_word": "",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "courageous",
+          "german_word": "mutig",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "daring",
+          "german_word": "kühn",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "outgoing",
+          "german_word": "",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "open-minded",
+          "german_word": "aufgeschlossen",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "mischievous",
+          "german_word": "",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "affectionate",
+          "german_word": "liebevoll",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "dreary",
+          "german_word": "trostlos, düster",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "dull",
+          "german_word": "trüb, düster",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "spooky",
+          "german_word": "unheimlich",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "(full of) suspense / tension",
+          "german_word": "",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "casual",
+          "german_word": "zwanglos / relaxed",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "cheerful",
+          "german_word": "heiter",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "to challenge",
+          "german_word": "",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "to dare",
+          "german_word": "",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "to sweat",
+          "german_word": "",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "to tremble",
+          "german_word": "zittern",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "to snap at sb",
+          "german_word": "",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "to break down",
+          "german_word": "",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "concerned about",
+          "german_word": "",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "haunted by",
+          "german_word": "geplagt",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "worried",
+          "german_word": "",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "anxious",
+          "german_word": "ängstlich",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "frightened / scared",
+          "german_word": "",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "irritated / annoyed",
+          "german_word": "",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "angry",
+          "german_word": "",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "furious / full of rage",
+          "german_word": "wütend",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "upset",
+          "german_word": "",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "confused",
+          "german_word": "",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "desperate",
+          "german_word": "",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "sad - depressed",
+          "german_word": "",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "cheerful",
+          "german_word": "heiter",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "happy",
+          "german_word": "",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "overjoyed",
+          "german_word": "überglücklich",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "confident",
+          "german_word": "",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "untroubled",
+          "german_word": "unbeschwert",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "calm",
+          "german_word": "",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "relaxed",
+          "german_word": "",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "content",
+          "german_word": "",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "without fear",
+          "german_word": "",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "excited",
+          "german_word": "",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "thrilled",
+          "german_word": "aufgeregt",
+          "english_example": "",
+          "german_example": ""
+        }
+      ]
+    },
+    {
+      "id": "unit_01_texts_b",
+      "name": "Texts B",
+      "cards": [
+        {
+          "english_word": "excess mortality",
+          "german_word": "Übersterblichkeit, überdurchschnittlich hohe Sterblichkeitsrate",
+          "english_example": "Excess mortality is significant in poor countries.",
+          "german_example": "In armen Ländern gibt es eine erhebliche Übersterblichkeit."
+        },
+        {
+          "english_word": "housing",
+          "german_word": "Unterkunft, Wohnungsbeschaffung",
+          "english_example": "In big cities, housing has become very expensive.",
+          "german_example": "In Großstädten ist Wohnraum sehr teuer geworden."
+        },
+        {
+          "english_word": "to sadden",
+          "german_word": "traurig machen, betrüben",
+          "english_example": "It saddens me to see that there are still so many wars going on in the world.",
+          "german_example": "Es betrübt mich zu sehen, dass es immer noch so viele Kriege auf der Welt gibt."
+        },
+        {
+          "english_word": "majority",
+          "german_word": "Mehrheit, Mehrzahl",
+          "english_example": "The majority of Americans live in cities.",
+          "german_example": "Die Mehrheit der Amerikaner lebt in Städten."
+        },
+        {
+          "english_word": "grim",
+          "german_word": "unbarmherzig, grausam",
+          "english_example": "The family had to face the grim reality of having to leave their home.",
+          "german_example": "Die Familie musste sich der grausamen Realität stellen, ihr Zuhause verlassen zu müssen."
+        },
+        {
+          "english_word": "vibrant",
+          "german_word": "dynamisch, lebhaft, pulsierend",
+          "english_example": "In this vibrant city, there are lots of music pubs, bars and theatres.",
+          "german_example": "In dieser lebhaften Stadt gibt es viele Musik-Pubs, Bars und Theater."
+        },
+        {
+          "english_word": "bourgeois",
+          "german_word": "bürgerlich",
+          "english_example": "People who describe others as 'bourgeois' think of them as very conventional and middle-class.",
+          "german_example": "Menschen, die andere als „bürgerlich“ beschreiben, halten sie für sehr konventionell und der Mittelschicht zugehörig."
+        },
+        {
+          "english_word": "to detract",
+          "german_word": "mindern, schmälern",
+          "english_example": "The fact that he wasn't a good pupil doesn't detract from his achievements as a scientist.",
+          "german_example": "Die Tatsache, dass er kein guter Schüler war, schmälert seine Leistungen als Wissenschaftler nicht."
+        },
+        {
+          "english_word": "appalling",
+          "german_word": "entsetzlich, schrecklich",
+          "english_example": "Child labour in African mines is appalling and should be stopped.",
+          "german_example": "Kinderarbeit in afrikanischen Minen ist entsetzlich und sollte gestoppt werden."
+        },
+        {
+          "english_word": "counterpoint",
+          "german_word": "Kontrapunkt, Gegensatz",
+          "english_example": "I can see no counterpoint to add to your arguments.",
+          "german_example": "Ich kann keinen Gegensatz sehen, den ich Ihren Argumenten hinzufügen könnte."
+        },
+        {
+          "english_word": "to discourage",
+          "german_word": "abschrecken, entmutigen",
+          "english_example": "People should be discouraged from bullying others.",
+          "german_example": "Menschen sollten davon abgehalten werden, andere zu schikanieren."
+        },
+        {
+          "english_word": "unprecedented",
+          "german_word": "beispiellos; noch nie da gewesen",
+          "english_example": "An unprecedented number of young people demonstrated for climate change.",
+          "german_example": "Eine noch nie dagewesene Zahl junger Menschen demonstrierte für den Klimawandel."
+        },
+        {
+          "english_word": "lopsided",
+          "german_word": "schief, nach einer Seite hängend",
+          "english_example": "I cannot agree with you because I think that your presentation of the facts is lopsided.",
+          "german_example": "Ich kann Ihnen nicht zustimmen, da ich der Meinung bin, dass Ihre Darstellung der Fakten einseitig ist."
+        },
+        {
+          "english_word": "to deter (from)",
+          "german_word": "abschrecken, jdn. davon abhalten etw. zu tun",
+          "english_example": "During the Cold War, people believed that nations could deter others from attacking them by buying more and more horrible weapons.",
+          "german_example": "Während des Kalten Krieges glaubte man, dass Nationen andere von einem Angriff abschrecken könnten, indem sie immer mehr schreckliche Waffen kauften."
+        },
+        {
+          "english_word": "coverage",
+          "german_word": "Berichterstattung",
+          "english_example": "The media coverage of the elections has been balanced so far.",
+          "german_example": "Die Berichterstattung der Medien über die Wahlen war bislang ausgewogen."
+        },
+        {
+          "english_word": "Glaswegian",
+          "german_word": "aus Glasgow",
+          "english_example": "Glaswegians are often praised for their friendliness and hospitality.",
+          "german_example": "Einwohner von Glasgow werden oft für ihre Freundlichkeit und Gastfreundschaft gelobt."
+        },
+        {
+          "english_word": "holy",
+          "german_word": "heilig",
+          "english_example": "The Bible contains stories of the Holy Spirit.",
+          "german_example": "Die Bibel enthält Geschichten über den Heiligen Geist."
+        },
+        {
+          "english_word": "to flow",
+          "german_word": "fließen; strömen",
+          "english_example": "Rivers flow into the sea.",
+          "german_example": "Flüsse fließen ins Meer."
+        },
+        {
+          "english_word": "cloth",
+          "german_word": "Stoff, Tuch, Gewebe",
+          "english_example": "cloth -> clothes",
+          "german_example": "Stoff -> Kleidung"
+        },
+        {
+          "english_word": "hose",
+          "german_word": "Schlauch; Strumpf",
+          "english_example": "I want to use the garden hose to water the plants.",
+          "german_example": "Ich möchte den Gartenschlauch benutzen, um die Pflanzen zu gießen."
+        },
+        {
+          "english_word": "furnace",
+          "german_word": "Hochofen; Schmelzofen",
+          "english_example": "The furnaces were fired with coal.",
+          "german_example": "Die Öfen wurden mit Kohle befeuert."
+        },
+        {
+          "english_word": "iron",
+          "german_word": "Eisen",
+          "english_example": "There was a big iron gate in front of the house.",
+          "german_example": "Vor dem Haus befand sich ein großes Eisentor."
+        },
+        {
+          "english_word": "belly",
+          "german_word": "Bauch",
+          "english_example": "The dog rolled onto its back so we could stroke its belly.",
+          "german_example": "Der Hund rollte sich auf den Rücken, damit wir ihm den Bauch kraulen konnten."
+        },
+        {
+          "english_word": "mill",
+          "german_word": "Fabrik",
+          "english_example": "mill = a factory, especially one which produces with raw materials",
+          "german_example": "Fabrik = eine Fabrik, insbesondere eine, die mit Rohstoffen produziert"
+        },
+        {
+          "english_word": "sole",
+          "german_word": "einzig; alleinig",
+          "english_example": "sole = only",
+          "german_example": "einzig = nur"
+        },
+        {
+          "english_word": "reward",
+          "german_word": "Belohnung; Preis",
+          "english_example": "A reward of £100 has been offered to anybody who finds the stolen car.",
+          "german_example": "Jedem, der das gestohlene Auto findet, wurde eine Belohnung von 100 Pfund ausgesetzt."
+        },
+        {
+          "english_word": "dreary",
+          "german_word": "trostlos",
+          "english_example": "Life seems dreary in the winter.",
+          "german_example": "Im Winter erscheint das Leben trostlos."
+        },
+        {
+          "english_word": "despair",
+          "german_word": "Hoffnungslosigkeit, Verzweiflung",
+          "english_example": "In times of despair, people often cry or pray to God.",
+          "german_example": "In Zeiten der Verzweiflung weinen Menschen oft oder beten zu Gott."
+        },
+        {
+          "english_word": "to come to one's mind",
+          "german_word": "in den Sinn kommen; einfallen",
+          "english_example": "What comes to your mind when you think of the United States?",
+          "german_example": "Was kommt dir in den Sinn, wenn du an die Vereinigten Staaten denkst?"
+        },
+        {
+          "english_word": "verse",
+          "german_word": "Vers, Strophe",
+          "english_example": "Poems or songs are divided into verses.",
+          "german_example": "Gedichte oder Lieder sind in Strophen unterteilt."
+        },
+        {
+          "english_word": "vocals (pl)",
+          "german_word": "Gesang",
+          "english_example": "The vocals were good, but the guitar was too loud.",
+          "german_example": "Der Gesang war gut, aber die Gitarre war zu laut."
+        },
+        {
+          "english_word": "dynamics (no pl)",
+          "german_word": "Dynamik",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "to interpret",
+          "german_word": "interpretieren",
+          "english_example": "I am not sure how to interpret his silence.",
+          "german_example": "Ich bin mir nicht sicher, wie ich sein Schweigen interpretieren soll."
+        },
+        {
+          "english_word": "fringe",
+          "german_word": "Rand-; Alternativ-",
+          "english_example": "The Edinburgh Fringe Festival takes place every year.",
+          "german_example": "Das Edinburgh Fringe Festival findet jedes Jahr statt."
+        },
+        {
+          "english_word": "exhibition",
+          "german_word": "Ausstellung; Vorführung",
+          "english_example": "I love to go to art exhibitions in museums and galleries.",
+          "german_example": "Ich gehe gerne in Kunstausstellungen in Museen und Galerien."
+        },
+        {
+          "english_word": "fairly",
+          "german_word": "ziemlich; recht",
+          "english_example": "We know our neighbours fairly well.",
+          "german_example": "Wir kennen unsere Nachbarn ziemlich gut."
+        },
+        {
+          "english_word": "up-and-coming",
+          "german_word": "aufstrebend; vielversprechend",
+          "english_example": "Many up-and-coming artists do shows at Glastonbury.",
+          "german_example": "Viele aufstrebende Künstler treten in Glastonbury auf."
+        },
+        {
+          "english_word": "to flock",
+          "german_word": "(scharenweise) strömen",
+          "english_example": "After the concert, the crowd flocked outside.",
+          "german_example": "Nach dem Konzert strömte die Menge nach draußen."
+        },
+        {
+          "english_word": "to daunt",
+          "german_word": "einschüchtern",
+          "english_example": "The storm did not daunt the sailors.",
+          "german_example": "Der Sturm konnte die Seeleute nicht einschüchtern."
+        },
+        {
+          "english_word": "to plunge in",
+          "german_word": "sich hineinstürzen",
+          "english_example": "The kids immediately plunged into the pool.",
+          "german_example": "Die Kinder stürzten sich sofort in den Pool."
+        },
+        {
+          "english_word": "to censor",
+          "german_word": "zensieren",
+          "english_example": "To censor a book (film, etc.) means to remove the parts that are considered to be offensive, immoral or a political threat.",
+          "german_example": "Ein Buch (einen Film usw.) zu zensieren bedeutet, die Teile zu entfernen, die als anstößig, unmoralisch oder als politische Bedrohung angesehen werden."
+        },
+        {
+          "english_word": "venue",
+          "german_word": "Austragungsort, Veranstaltungsort",
+          "english_example": "The band's tour will cover all the important venues.",
+          "german_example": "Die Tournee der Band wird alle wichtigen Veranstaltungsorte umfassen."
+        },
+        {
+          "english_word": "intriguing",
+          "german_word": "faszinierend",
+          "english_example": "intriguing = fascinating",
+          "german_example": "faszinierend = faszinierend"
+        },
+        {
+          "english_word": "spread",
+          "german_word": "Ausbreitung; Verbreitung; Spannweite",
+          "english_example": "Be careful with the pronunciation: 'Spread' rhymes with 'bread' and 'head'.",
+          "german_example": "Achte auf die Aussprache: „Spread“ reimt sich auf „bread“ und „head“."
+        },
+        {
+          "english_word": "to range (from ... to ...)",
+          "german_word": "sich erstrecken (von ... bis ...); reichen (von ... bis ...)",
+          "english_example": "The topics we discussed ranged from soap operas to real philosophical questions.",
+          "german_example": "Die Themen, die wir besprachen, reichten von Seifenopern bis hin zu echten philosophischen Fragen."
+        },
+        {
+          "english_word": "basement",
+          "german_word": "Kellergeschoss, Untergeschoss",
+          "english_example": "basement = the lowest floor of a building, below street level",
+          "german_example": "Kellergeschoss = das unterste Stockwerk eines Gebäudes, unter dem Straßenniveau"
+        }
+      ]
+    },
+    {
+      "id": "unit_01_texts_c",
+      "name": "Texts C",
+      "cards": [
+        {
+          "english_word": "to invest",
+          "german_word": "investieren",
+          "english_example": "to invest = to put money in sth or to buy sth because you hope to make a profit",
+          "german_example": "investieren = Geld in etwas stecken oder etwas kaufen, weil man hofft, einen Gewinn zu erzielen"
+        },
+        {
+          "english_word": "to pass away",
+          "german_word": "versterben, entschlafen",
+          "english_example": "My mum passed away early, which was very hard for all of us.",
+          "german_example": "Meine Mutter ist früh verstorben, was für uns alle sehr schwer war."
+        },
+        {
+          "english_word": "welfare",
+          "german_word": "Sozialhilfe",
+          "english_example": "welfare = money and / or services you get from the state or an organisation when you are in need",
+          "german_example": "Sozialhilfe = Geld und/oder Dienstleistungen, die man vom Staat oder einer Organisation erhält, wenn man bedürftig ist"
+        },
+        {
+          "english_word": "mental health",
+          "german_word": "seelische Gesundheit",
+          "english_example": "mental <-> physical",
+          "german_example": "geistig/seelisch <-> körperlich"
+        },
+        {
+          "english_word": "housing",
+          "german_word": "Unterkunft, Wohnungsbeschaffung",
+          "english_example": "In big cities, housing has become very expensive.",
+          "german_example": "In Großstädten ist Wohnraum sehr teuer geworden."
+        },
+        {
+          "english_word": "fund",
+          "german_word": "Fonds",
+          "english_example": "The city set up a fund to help the homeless.",
+          "german_example": "Die Stadt hat einen Fonds eingerichtet, um Obdachlosen zu helfen."
+        },
+        {
+          "english_word": "initiative",
+          "german_word": "Initiative; Aktion",
+          "english_example": "I support the initiative against racism.",
+          "german_example": "Ich unterstütze die Initiative gegen Rassismus."
+        },
+        {
+          "english_word": "to uphold",
+          "german_word": "aufrechterhalten; wahren",
+          "english_example": "The company upholds strict hygiene standards, so you have to wash your hands regularly.",
+          "german_example": "Das Unternehmen hält strenge Hygienestandards aufrecht, daher müssen Sie sich regelmäßig die Hände waschen."
+        },
+        {
+          "english_word": "campaign",
+          "german_word": "Kampagne, Aktion",
+          "english_example": "The advertising campaign for our new product is very successful.",
+          "german_example": "Die Werbekampagne für unser neues Produkt ist sehr erfolgreich."
+        },
+        {
+          "english_word": "impartial",
+          "german_word": "unparteiisch, unvoreingenommen",
+          "english_example": "A good judge is impartial and fair.",
+          "german_example": "Ein guter Richter ist unparteiisch und fair."
+        },
+        {
+          "english_word": "crisis, crises (pl)",
+          "german_word": "Krise",
+          "english_example": "Europe has been in a crisis for some time.",
+          "german_example": "Europa befindet sich seit einiger Zeit in einer Krise."
+        },
+        {
+          "english_word": "to loom",
+          "german_word": "sich abzeichnen",
+          "english_example": "A financial crisis is looming.",
+          "german_example": "Eine Finanzkrise zeichnet sich ab."
+        },
+        {
+          "english_word": "eating disorder",
+          "german_word": "Essstörung",
+          "english_example": "If you worry too much about your weight, you may develop an eating disorder.",
+          "german_example": "Wenn Sie sich zu viele Sorgen um Ihr Gewicht machen, entwickeln Sie möglicherweise eine Essstörung."
+        },
+        {
+          "english_word": "backlog",
+          "german_word": "Rückstand",
+          "english_example": "We will need at least one assistant to work off this backlog.",
+          "german_example": "Wir werden mindestens einen Assistenten brauchen, um diesen Rückstand aufzuarbeiten."
+        },
+        {
+          "english_word": "ridiculous",
+          "german_word": "lächerlich",
+          "english_example": "The idea to run a marathon without preparation is ridiculous.",
+          "german_example": "Die Idee, ohne Vorbereitung einen Marathon zu laufen, ist lächerlich."
+        },
+        {
+          "english_word": "to strike",
+          "german_word": "treffen",
+          "english_example": "The baseball player struck the ball hard.",
+          "german_example": "Der Baseballspieler traf den Ball hart."
+        },
+        {
+          "english_word": "exposure",
+          "german_word": "Aussetzung; Ausgesetztsein",
+          "english_example": "exposure -> exposed",
+          "german_example": "Aussetzung -> ausgesetzt"
+        },
+        {
+          "english_word": "hazard",
+          "german_word": "Gefahr, Risiko",
+          "english_example": "The fire hazard is particularly high in California in the summer.",
+          "german_example": "Die Brandgefahr ist in Kalifornien im Sommer besonders hoch."
+        },
+        {
+          "english_word": "solar panel",
+          "german_word": "Sonnenkollektor",
+          "english_example": "Solar panels are mostly put on roofs.",
+          "german_example": "Solarmodule werden meist auf Dächern platziert."
+        },
+        {
+          "english_word": "wind turbine",
+          "german_word": "Windturbine",
+          "english_example": "A lot of Scotland's electricity comes from wind turbines.",
+          "german_example": "Ein Großteil des schottischen Stroms stammt aus Windkraftanlagen."
+        },
+        {
+          "english_word": "to reform",
+          "german_word": "reformieren",
+          "english_example": "Laws need to be reformed from time to time.",
+          "german_example": "Gesetze müssen von Zeit zu Zeit reformiert werden."
+        },
+        {
+          "english_word": "graduate",
+          "german_word": "Hochschulabsolvent/-in",
+          "english_example": "He is a graduate of physics.",
+          "german_example": "Er ist ein Absolvent der Physik."
+        },
+        {
+          "english_word": "to cast one's vote",
+          "german_word": "die Stimme abgeben",
+          "english_example": "What candidate did you cast your vote for?",
+          "german_example": "Für welchen Kandidaten haben Sie Ihre Stimme abgegeben?"
+        },
+        {
+          "english_word": "to convict",
+          "german_word": "verurteilen",
+          "english_example": "The criminal was convicted of murder.",
+          "german_example": "Der Kriminelle wurde wegen Mordes verurteilt."
+        },
+        {
+          "english_word": "on remand",
+          "german_word": "in Untersuchungshaft",
+          "english_example": "The police can keep someone prisoner on remand until their trial.",
+          "german_example": "Die Polizei kann jemanden bis zum Prozess in Untersuchungshaft halten."
+        },
+        {
+          "english_word": "to prompt",
+          "german_word": "veranlassen; auffordern",
+          "english_example": "The website prompted me to enter a new password.",
+          "german_example": "Die Website forderte mich auf, ein neues Passwort einzugeben."
+        },
+        {
+          "english_word": "proposition",
+          "german_word": "Aussage; These",
+          "english_example": "proposition - statement",
+          "german_example": "Aussage - Behauptung"
+        },
+        {
+          "english_word": "ambassador",
+          "german_word": "Botschafter/-in",
+          "english_example": "Who is Britain's ambassador to Germany?",
+          "german_example": "Wer ist der britische Botschafter in Deutschland?"
+        },
+        {
+          "english_word": "to champion",
+          "german_word": "eintreten für; unterstützen; verfechten",
+          "english_example": "He passionately championed the poor.",
+          "german_example": "Er setzte sich leidenschaftlich für die Armen ein."
+        },
+        {
+          "english_word": "to complement",
+          "german_word": "abrunden; ergänzen",
+          "english_example": "The necklace complements her outfit.",
+          "german_example": "Die Halskette vervollständigt ihr Outfit."
+        },
+        {
+          "english_word": "councillor",
+          "german_word": "Gemeinderat/-rätin; Stadtrat/-rätin",
+          "english_example": "The town council consists of twenty councillors.",
+          "german_example": "Der Stadtrat besteht aus zwanzig Gemeinderäten."
+        },
+        {
+          "english_word": "to engage",
+          "german_word": "faszinieren; begeistern",
+          "english_example": "The storyteller engaged us with his adventure stories.",
+          "german_example": "Der Geschichtenerzähler fesselte uns mit seinen Abenteuergeschichten."
+        },
+        {
+          "english_word": "consultation",
+          "german_word": "Beratung; Besprechung",
+          "english_example": "Next week the Prime Minister will be in Florida for consultations with the American President.",
+          "german_example": "Nächste Woche wird der Premierminister zu Beratungen mit dem amerikanischen Präsidenten in Florida sein."
+        },
+        {
+          "english_word": "to showcase",
+          "german_word": "ausstellen",
+          "english_example": "to showcase -> to display",
+          "german_example": "ausstellen -> anzeigen/präsentieren"
+        }
+      ]
+    },
+    {
+      "id": "media_competence",
+      "name": "Media competence",
+      "cards": [
+        {
+          "english_word": "bilingual",
+          "german_word": "zweisprachig",
+          "english_example": "I speak English and German perfectly. I'm bilingual.",
+          "german_example": "Ich spreche perfekt Englisch und Deutsch. Ich bin zweisprachig."
+        },
+        {
+          "english_word": "abbreviation",
+          "german_word": "Abkürzung",
+          "english_example": "'USA' is the abbreviation for 'United States of America'.",
+          "german_example": "„USA“ ist die Abkürzung für „United States of America“."
+        },
+        {
+          "english_word": "part of speech",
+          "german_word": "Wortart; Wortklasse",
+          "english_example": "Nouns, verbs, adjectives, adverbs etc. are different parts of speech.",
+          "german_example": "Substantive, Verben, Adjektive, Adverbien usw. sind verschiedene Wortarten."
+        },
+        {
+          "english_word": "to cross-check",
+          "german_word": "die Gegenprobe machen; vergleichend überprüfen",
+          "english_example": "You should always cross-check your results before presenting them.",
+          "german_example": "Sie sollten Ihre Ergebnisse immer vergleichend überprüfen, bevor Sie sie präsentieren."
+        },
+        {
+          "english_word": "afterwards",
+          "german_word": "danach; hinterher",
+          "english_example": "I need to do my homework, but I can meet you afterwards.",
+          "german_example": "Ich muss meine Hausaufgaben machen, aber ich kann dich danach treffen."
+        },
+        {
+          "english_word": "to pronounce",
+          "german_word": "aussprechen",
+          "english_example": "Be careful with the spelling: to pronounce -> pronunciation",
+          "german_example": "Achte auf die Rechtschreibung: to pronounce -> pronunciation"
+        },
+        {
+          "english_word": "idiom",
+          "german_word": "Redewendung; besondere Ausdrucksweise",
+          "english_example": "idiom = a group of words that does not have the same meaning as the meanings of the individual words in the group",
+          "german_example": "Redewendung = eine Wortgruppe, die nicht dieselbe Bedeutung hat wie die Bedeutungen der einzelnen Wörter in der Gruppe"
+        },
+        {
+          "english_word": "Scots",
+          "german_word": "Schottisch (Dialekt)",
+          "english_example": "Scots -> Scottish, Scotland",
+          "german_example": "Schottisch -> schottisch, Schottland"
+        },
+        {
+          "english_word": "etymology (no pl)",
+          "german_word": "Etymologie",
+          "english_example": "etymology = the study of the origin and history of words",
+          "german_example": "Etymologie = die Untersuchung des Ursprungs und der Geschichte von Wörtern"
+        },
+        {
+          "english_word": "thesaurus, thesauri (pl)",
+          "german_word": "Synonymwörterbuch",
+          "english_example": "thesaurus = a type of dictionary in which words with similar meanings are arranged in groups",
+          "german_example": "Thesaurus = eine Art Wörterbuch, in dem Wörter mit ähnlichen Bedeutungen in Gruppen angeordnet sind"
+        },
+        {
+          "english_word": "to type",
+          "german_word": "tippen",
+          "english_example": "It's easier to read a text that has been typed than one that has been written by hand.",
+          "german_example": "Es ist einfacher, einen getippten Text zu lesen als einen, der von Hand geschrieben wurde."
+        },
+        {
+          "english_word": "inverted comma",
+          "german_word": "Anführungszeichen",
+          "english_example": "Direct speech in dialogues is usually put in inverted commas.",
+          "german_example": "Direkte Rede in Dialogen wird normalerweise in Anführungszeichen gesetzt."
+        }
+      ]
+    },
+    {
+      "id": "unit_task",
+      "name": "Unit task",
+      "cards": [
+        {
+          "english_word": "to get in touch (with)",
+          "german_word": "kontaktieren; in Verbindung treten (mit)",
+          "english_example": "to get in touch (with) = to make contact (with)",
+          "german_example": "in Verbindung treten = Kontakt aufnehmen"
+        },
+        {
+          "english_word": "partnership",
+          "german_word": "Partnerschaft",
+          "english_example": "To complete the project, a partnership between the business and our local politicians has been formed.",
+          "german_example": "Um das Projekt abzuschließen, wurde eine Partnerschaft zwischen dem Unternehmen und unseren lokalen Politikern gegründet."
+        },
+        {
+          "english_word": "to resolve",
+          "german_word": "lösen; klären",
+          "english_example": "The two countries were able to resolve their conflict.",
+          "german_example": "Die beiden Länder konnten ihren Konflikt lösen."
+        },
+        {
+          "english_word": "copyright",
+          "german_word": "Urheberrecht; Copyright",
+          "english_example": "Fairy tales don't have a copyright because they are too old.",
+          "german_example": "Märchen haben kein Urheberrecht, weil sie zu alt sind."
+        },
+        {
+          "english_word": "extracurricular",
+          "german_word": "außerhalb des Lehrplans",
+          "english_example": "Extracurricular activities at school usually take place in the afternoon.",
+          "german_example": "Aktivitäten außerhalb des Lehrplans finden in der Schule normalerweise nachmittags statt."
+        },
+        {
+          "english_word": "to distribute",
+          "german_word": "verteilen; aufteilen",
+          "english_example": "",
+          "german_example": ""
+        },
+        {
+          "english_word": "workload",
+          "german_word": "Arbeitspensum",
+          "english_example": "I can easily deal with my workload.",
+          "german_example": "Ich kann mein Arbeitspensum leicht bewältigen."
+        },
+        {
+          "english_word": "artwork",
+          "german_word": "Illustrationen; Bebilderung",
+          "english_example": "Every Indian tribe has its typical artwork.",
+          "german_example": "Jeder Indianerstamm hat seine typischen Kunstwerke."
+        },
+        {
+          "english_word": "correspondence",
+          "german_word": "Korrespondenz, Schriftwechsel",
+          "english_example": "Business correspondence uses formal language.",
+          "german_example": "Geschäftliche Korrespondenz verwendet formelle Sprache."
+        },
+        {
+          "english_word": "to meet / miss a deadline",
+          "german_word": "einen (Abgabe-)Termin einhalten / verpassen",
+          "english_example": "Journalists have to be able to meet a deadline.",
+          "german_example": "Journalisten müssen in der Lage sein, einen Abgabetermin einzuhalten."
+        },
+        {
+          "english_word": "management",
+          "german_word": "Management, Verwaltung",
+          "english_example": "management -> to manage, manager",
+          "german_example": "Management -> verwalten/leiten, Manager/Leiter"
+        }
+      ]
+    },
+    {
+      "id": "texts_d",
+      "name": "Texts D",
+      "cards": [
+        {
+          "english_word": "flagship project",
+          "german_word": "Vorzeigeprojekt",
+          "english_example": "This chocolate is the flagship product of this sweets company.",
+          "german_example": "Diese Schokolade ist das Flaggschiff-Produkt dieses Süßwarenunternehmens."
+        },
+        {
+          "english_word": "to sustain",
+          "german_word": "(am Leben) erhalten",
+          "english_example": "There is not enough food in this house to sustain a mouse.",
+          "german_example": "Es gibt nicht genug Essen in diesem Haus, um eine Maus am Leben zu erhalten."
+        },
+        {
+          "english_word": "range",
+          "german_word": "Sortiment, Palette",
+          "english_example": "range = group of products with the same brand name",
+          "german_example": "Sortiment = Gruppe von Produkten mit demselben Markennamen"
+        },
+        {
+          "english_word": "foundation",
+          "german_word": "Stiftung; Gründung",
+          "english_example": "foundation -> to found",
+          "german_example": "Gründung -> gründen"
+        },
+        {
+          "english_word": "strategy",
+          "german_word": "Strategie",
+          "english_example": "What's our strategy for the match?",
+          "german_example": "Was ist unsere Strategie für das Spiel?"
+        },
+        {
+          "english_word": "hectare",
+          "german_word": "Hektar",
+          "english_example": "hectare = 10,000 square metres",
+          "german_example": "Hektar = 10.000 Quadratmeter"
+        },
+        {
+          "english_word": "Caledonian",
+          "german_word": "schottisch",
+          "english_example": "Caledonian - Scottish",
+          "german_example": "Kaledonisch - schottisch"
+        },
+        {
+          "english_word": "rate",
+          "german_word": "Rate; Quote",
+          "english_example": "rate = the level of sth (e.g. of recycling)",
+          "german_example": "Quote = das Niveau von etwas (z. B. beim Recycling)"
+        },
+        {
+          "english_word": "enterprise",
+          "german_word": "Unternehmen, Firma",
+          "english_example": "enterprise = company",
+          "german_example": "Unternehmen = Firma"
+        },
+        {
+          "english_word": "proposal",
+          "german_word": "Vorschlag; Entwurf, Gesetzesvorlage",
+          "english_example": "to make a proposal",
+          "german_example": "einen Vorschlag machen"
+        },
+        {
+          "english_word": "interviewee",
+          "german_word": "Befragte/-r, Interviewte/-r",
+          "english_example": "The interviewee didn't want to answer some of the questions.",
+          "german_example": "Der Interviewte wollte einige der Fragen nicht beantworten."
+        }
+      ]
+    },
+    {
+      "id": "texts_e",
+      "name": "Texts E",
+      "cards": [
+        {
+          "english_word": "croft",
+          "german_word": "kleiner Bauernhof",
+          "english_example": "People who work on small crofts in Scotland are called crofters.",
+          "german_example": "Menschen, die auf kleinen Bauernhöfen in Schottland arbeiten, werden Pächter genannt."
+        },
+        {
+          "english_word": "crop",
+          "german_word": "Getreide, Anbaupflanze, Feldfrucht",
+          "english_example": "Some crops are better suited to dry conditions than others.",
+          "german_example": "Einige Nutzpflanzen sind besser an trockene Bedingungen angepasst als andere."
+        },
+        {
+          "english_word": "plough",
+          "german_word": "Pflug",
+          "english_example": "A plough is an agricultural tool for turning the soil.",
+          "german_example": "Ein Pflug ist ein landwirtschaftliches Werkzeug zum Wenden des Bodens."
+        },
+        {
+          "english_word": "to appreciate",
+          "german_word": "schätzen, anerkennen, würdigen",
+          "english_example": "If you appreciate sth, you like it because you recognize its value.",
+          "german_example": "Wenn man etwas schätzt, mag man es, weil man dessen Wert erkennt."
+        },
+        {
+          "english_word": "in return (to sth.)",
+          "german_word": "als Gegenleistung",
+          "english_example": "In return for your cooperation we will give you a free gift.",
+          "german_example": "Als Gegenleistung für Ihre Zusammenarbeit überreichen wir Ihnen ein kostenloses Geschenk."
+        },
+        {
+          "english_word": "cloak",
+          "german_word": "Mantel, Umhang",
+          "english_example": "I've bought a long black cloak, which I'm going to wear at the Halloween party.",
+          "german_example": "Ich habe einen langen schwarzen Umhang gekauft, den ich auf der Halloween-Party tragen werde."
+        },
+        {
+          "english_word": "salt",
+          "german_word": "Salz",
+          "english_example": "Do you prefer rock salt or sea salt?",
+          "german_example": "Bevorzugen Sie Steinsalz oder Meersalz?"
+        },
+        {
+          "english_word": "to heal",
+          "german_word": "heilen",
+          "english_example": "His broken heart will take a long time to heal.",
+          "german_example": "Sein gebrochenes Herz wird lange brauchen, um zu heilen."
+        },
+        {
+          "english_word": "patch",
+          "german_word": "Fleck; Stelle",
+          "english_example": "There's a wet patch on the floor. What happened?",
+          "german_example": "Da ist ein nasser Fleck auf dem Boden. Was ist passiert?"
+        },
+        {
+          "english_word": "to bend over",
+          "german_word": "sich vorbeugen; sich beugen über",
+          "english_example": "to bend over = to move the top part of the body towards the ground",
+          "german_example": "sich vorbeugen = den oberen Teil des Körpers in Richtung Boden bewegen"
+        },
+        {
+          "english_word": "chest",
+          "german_word": "Kiste; Truhe",
+          "english_example": "At the bottom of the chest I found some jewellery.",
+          "german_example": "Auf dem Boden der Kiste fand ich etwas Schmuck."
+        },
+        {
+          "english_word": "leather",
+          "german_word": "Leder",
+          "english_example": "I want to buy that leather jacket, but it's very expensive.",
+          "german_example": "Ich möchte diese Lederjacke kaufen, aber sie ist sehr teuer."
+        },
+        {
+          "english_word": "to hum",
+          "german_word": "summen; brummen",
+          "english_example": "Humming a tune can relax you.",
+          "german_example": "Eine Melodie zu summen kann dich entspannen."
+        },
+        {
+          "english_word": "tune",
+          "german_word": "Melodie; Ton",
+          "english_example": "If you don't know the lyrics of the song, you can just hum along to the tune.",
+          "german_example": "Wenn du den Liedtext nicht kennst, kannst du einfach zur Melodie mitsummen."
+        },
+        {
+          "english_word": "to glisten",
+          "german_word": "glitzern",
+          "english_example": "The calm sea glistened in the sunlight.",
+          "german_example": "Das ruhige Meer glitzerte im Sonnenlicht."
+        },
+        {
+          "english_word": "to tense",
+          "german_word": "sich spannen; (sich) anspannen",
+          "english_example": "He tensed a muscle to see if his training had had an effect.",
+          "german_example": "Er spannte einen Muskel an, um zu sehen, ob sein Training eine Wirkung gezeigt hatte."
+        },
+        {
+          "english_word": "furious",
+          "german_word": "wütend",
+          "english_example": "furious = very, very angry",
+          "german_example": "wütend = sehr, sehr zornig"
+        },
+        {
+          "english_word": "to rear up",
+          "german_word": "sich aufbäumen; sich aufrichten",
+          "english_example": "The horse reared up and threw off its rider.",
+          "german_example": "Das Pferd bäumte sich auf und warf seinen Reiter ab."
+        },
+        {
+          "english_word": "to hiss",
+          "german_word": "zischen; fauchen",
+          "english_example": "Hissing is the typical sound of snakes.",
+          "german_example": "Zischen ist das typische Geräusch von Schlangen."
+        },
+        {
+          "english_word": "to lean back",
+          "german_word": "sich zurücklehnen",
+          "english_example": "She leaned back in her chair and relaxed.",
+          "german_example": "Sie lehnte sich in ihrem Stuhl zurück und entspannte sich."
+        },
+        {
+          "english_word": "to roar",
+          "german_word": "brüllen; dröhnen",
+          "english_example": "The lions have been roaring all night.",
+          "german_example": "Die Löwen haben die ganze Nacht gebrüllt."
+        },
+        {
+          "english_word": "bank",
+          "german_word": "Ufer",
+          "english_example": "A river has two banks.",
+          "german_example": "Ein Fluss hat zwei Ufer."
+        },
+        {
+          "english_word": "stable",
+          "german_word": "Stall",
+          "english_example": "stable = a building in which horses are kept",
+          "german_example": "Stall = ein Gebäude, in dem Pferde gehalten werden"
+        },
+        {
+          "english_word": "to sow",
+          "german_word": "säen",
+          "english_example": "Yesterday the field opposite was sown with corn.",
+          "german_example": "Gestern wurde das gegenüberliegende Feld mit Getreide besät."
+        },
+        {
+          "english_word": "as for ...",
+          "german_word": "was ... betrifft",
+          "english_example": "As for me, I don't like dogs.",
+          "german_example": "Was mich betrifft, ich mag keine Hunde."
+        },
+        {
+          "english_word": "affectionate",
+          "german_word": "liebevoll; zärtlich",
+          "english_example": "They seemed to be in love with each other and were openly affectionate.",
+          "german_example": "Sie schienen ineinander verliebt zu sein und zeigten ihre Zuneigung ganz offen."
+        }
+      ]
+    }
+  ]
+}

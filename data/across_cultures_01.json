@@ -1,0 +1,76 @@
+{
+  "categories": [
+    {
+      "id": "same_same_but_different",
+      "name": "Same same but different?",
+      "cards": [
+        {
+          "english_word": "rainbow",
+          "german_word": "Regenbogen",
+          "english_example": "There are said to be seven colours in a rainbow.",
+          "german_example": "Es wird gesagt, dass ein Regenbogen sieben Farben hat."
+        },
+        {
+          "english_word": "LGBTQIA+",
+          "german_word": "Abkürzung für Lesbisch, Schwul, Bisexuell, Transgender, Queer/Questioning, Intersexuell, Asexuell/Aromantisch und andere Formen der sexuellen Identität und Orientierung",
+          "english_example": "LGBTQIA+ is an abbreviation for Lesbian, Gay, Bisexual, Transgender, Queer/Questioning, Intersex, Asexual/Aromantic and any other form of sexual identity and orientation.",
+          "german_example": "LGBTQIA+ ist eine Abkürzung für Lesbisch, Schwul, Bisexuell, Transgender, Queer/Questioning, Intersexuell, Asexuell/Aromantisch und jede andere Form von sexueller Identität und Orientierung."
+        },
+        {
+          "english_word": "similarity",
+          "german_word": "Ähnlichkeit; Gemeinsamkeit",
+          "english_example": "similarity <-> difference / similarity -> similar / Lat. similis/-e",
+          "german_example": "Ähnlichkeit <-> Unterschied / Ähnlichkeit -> ähnlich / lat. similis/-e"
+        },
+        {
+          "english_word": "pidgin",
+          "german_word": "Pidgin",
+          "english_example": "A pidgin language consists of words and phrases of different languages.",
+          "german_example": "Eine Pidginsprache besteht aus Wörtern und Phrasen verschiedener Sprachen."
+        },
+        {
+          "english_word": "to simplify",
+          "german_word": "vereinfachen",
+          "english_example": "The suffix '-ify' at the end of verbs shows that something or someone is changed in some way: to simplify, to identify, to clarify, ...",
+          "german_example": "Das Suffix „-ify“ am Ende von Verben zeigt, dass etwas oder jemand in irgendeiner Weise verändert wird: vereinfachen, identifizieren, klarstellen, ..."
+        },
+        {
+          "english_word": "pluralistic",
+          "german_word": "pluralistisch; vielfältig",
+          "english_example": "We live in a pluralistic society.",
+          "german_example": "Wir leben in einer pluralistischen Gesellschaft."
+        },
+        {
+          "english_word": "mutual",
+          "german_word": "gegenseitig",
+          "english_example": "A partnership should be based on mutual respect. Fr. mutuel/-le",
+          "german_example": "Eine Partnerschaft sollte auf gegenseitigem Respekt basieren. frz. mutuel/-le"
+        },
+        {
+          "english_word": "beneficial",
+          "german_word": "nützlich",
+          "english_example": "beneficial -> benefit / Lat. beneficium (nt)",
+          "german_example": "nützlich -> Nutzen, Vorteil / lat. beneficium (nt)"
+        },
+        {
+          "english_word": "to proclaim",
+          "german_word": "verkünden; erklären; ausrufen",
+          "english_example": "to proclaim = to publicly and officially tell people about sth important / to proclaim = to declare",
+          "german_example": "to proclaim = den Menschen öffentlich und offiziell etwas Wichtiges mitteilen / to proclaim = erklären"
+        },
+        {
+          "english_word": "encounter",
+          "german_word": "Begegnung; Zusammentreffen",
+          "english_example": "An encounter is a meeting, especially an unplanned or unexpected one.",
+          "german_example": "Eine Begegnung ist ein Treffen, insbesondere ein ungeplantes oder unerwartetes."
+        },
+        {
+          "english_word": "(song) lyrics (pl)",
+          "german_word": "Liedtext",
+          "english_example": "Are the lyrics of songs important to you, or just the music?",
+          "german_example": "Ist dir der Text von Liedern wichtig oder nur die Musik?"
+        }
+      ]
+    }
+  ]
+}
